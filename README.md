@@ -14,10 +14,10 @@ In this project I tried to create a regression model that could accurately predi
 # Usage
 To clone and run this application, you'll need Git and Python installed on your computer. From your command line:
 
-git clone https://github.com/tanveersingh10/HDB_ML_model
+- git clone https://github.com/tanveersingh10/HDB_ML_model
 
-cd HDB_ML_model
+- cd HDB_ML_model
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-jupyter lab hdb_model
+- jupyter lab hdb_model
